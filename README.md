@@ -37,13 +37,26 @@ Please follow the URL listed for each page to review the full project.
 - Multiple service offerings presentation
 - Target audience segmentation
 
-## Technologies Used
-- HTML5
-- CSS3
-- JavaScript
+## Skills & Tools
 
-## Screenshots
-*Screenshots coming soon - desktop and mobile views*
+**WordPress Development**
+- Built on WordPress CMS with custom theme configuration
+
+**Page Building & Design**
+- Elementor Pro - Advanced page layouts and design system
+- Essential Add-ons for Elementor - Enhanced interactivity and dynamic content features
+
+**Forms & User Interaction**
+- WP Forms - Contact form integration and lead capture
+
+**SEO & Performance Analytics**
+- All in One SEO (AIOSEO) - Search engine optimization and metadata management
+- MonsterInsights - Google Analytics integration and traffic monitoring
+
+**Design & UX**
+- Responsive design principles - Mobile-first approach ensuring optimal viewing across all devices
+- Custom CSS - Design refinements and brand-specific styling
+- Content strategy - Audience segmentation and messaging optimization for target markets (individuals, physicians, legal professionals)
 
 ---
 
