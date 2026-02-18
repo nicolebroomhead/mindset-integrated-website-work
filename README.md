@@ -1,6 +1,6 @@
 # Mindset Integrated Website
 
-**Live Homepage Demo:** [View Website](https://nicolebroomhead.github.io/mindset-integrated-website-work/homepage.html)
+**Live Homepage Demo:** [View Homepage](https://nicolebroomhead.github.io/mindset-integrated-website-work/homepage.html)
 
 ## About This Project
 WordPress website redesign and rebuild for Mindset Integrated, a startup specializing in brain injury analysis and quantitative medical imaging solutions for healthcare and legal professionals. 
