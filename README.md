@@ -46,4 +46,5 @@ WordPress website redesign and rebuild for Mindset Integrated, a startup special
 
 ---
 
-**Note:** This project showcases web development and design work for an early-stage startup. As with many startups, some pages reflect the evolving nature of their content and resources. The branding, technical implementation, responsive design, and user experience optimization demonstrate the core development capabilities.
+**Note:** This project showcases web development and design work for an early-stage startup. As with many startups, some pages reflect the evolving nature of their content and resources. The branding, technical implementation, responsive design, and user experience optimization demonstrate the core development capabilities. These are demo links are static page captures for portfolio purposes and do not allow for live navigation throughout the site via any particular page. The original site is live at [mindsetintegrated.com
+](https://mindsetintegrated.com/)
